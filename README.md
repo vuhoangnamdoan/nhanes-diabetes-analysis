@@ -16,14 +16,14 @@ libraries ≥ the versions shown.
 ```bash
 # ──- pip bootstrap ─────────────────────────────────────────────────────────────
 pip install -q \
-    pandas>=2.2        \
-    numpy>=1.26        \
-    scikit-learn>=1.4  \
-    matplotlib>=3.8    \
-    bokeh>=3.3         \
-    jupyterlab-widgets ipywidgets>=8.1 \
-    seaborn>=0.13      \
-    statsmodels>=0.14  \
-    tqdm               \
-    pyreadstat         # faster .xpt reading (optional but recommended)
+    pandas        \
+    numpy        \
+    scikit-learn  \
+    matplotlib    \
+    bokeh         \
+    jupyterlab-widgets ipywidgets \
+    seaborn      \
+    statsmodels  \
+    tqdm
 ```
+
